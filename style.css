@@ -19,8 +19,8 @@ body {
 
 header {
   width: 1024px; 
-  height: 768px; 
   padding: 20px; 
+  height: 768px; 
   gap: 10px;
 } 
 
@@ -31,14 +31,14 @@ header {
 } 
 
 button { 
-  width: 70px; 
   height: 26px; 
+  width: 70px; 
   padding: 0px 13px; 
   border: none; 
   background: transparent; 
   font-family: "IBM Plex Mono"; 
-  font-size: 18px; 
   font-weight: 400; 
+  font-size: 18px; 
   line-height: 18px; 
   color: #353430; 
   cursor: pointer; 
@@ -51,8 +51,8 @@ button {
 
 .noFocus {
   position: absolute;
-  width: 759px;
   height: 130px;
+  width: 759px;
   top: 319px;
 } 
 
@@ -76,19 +76,19 @@ h1 {
  
 p {
   font-family: "IBM Plex Mono"; 
-  font-size: 18px; 
   font-weight: 700; 
+  font-size: 18px; 
   line-height: 23.4px; 
   text-align: left; 
-  color: #353430; 
   background: #FF8DCB; 
+  color: #353430; 
 }
 
 .bord { 
   box-sizing: border-box; 
   position: absolute; 
-  width: 25px; 
-  height: 25px; 
+  height: 25px;
+  width: 25px;  
   border-color: #353430; 
   border-style: solid; 
 } 
@@ -117,7 +117,7 @@ main {
   width: 1024px;
 }
 
-.capital_1 {
+.main_1 {
   width: 314.96px;
   height: 47px;
 }
@@ -150,13 +150,13 @@ span {
   top: 1416px;
 }
 
-.capital_2 {
-  width: 315px;
+.main_2 {
   height: 47px;
+  width: 315px;
   left: 20px;
 }
 
-.small_2 {
+.tiny_2 {
   width: 984px;
   height: 508px;
   display: flex;
@@ -173,7 +173,7 @@ span {
   display: flex;
 }
 
-.capital_3 {
+.main_3{
   width: 315px;
   height: 98px;
 }
